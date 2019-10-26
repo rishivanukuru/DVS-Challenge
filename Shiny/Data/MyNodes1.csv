@@ -1,0 +1,181 @@
+name,group,size
+Adobe Director,1,1
+Affinity Designer,1,2
+After Effects,1,1
+Altair,1,3
+Alteryx,1,5
+AmCharts,1,2
+Angular,2,53
+Animate CC,1,1
+Apache superset,1,1
+aplpy,1,1
+Arcadia Data,1,1
+ArcGIS,2,141
+Axure,1,1
+Blender,1,1
+BO,1,3
+Bokeh,1,4
+Britecharts,1,1
+Business Objects,1,4
+Canva,2,104
+Canvas,2,101
+Carto,1,4
+Cesium.js,1,1
+Charticulator,1,1
+Chartio,1,2
+chartjs,1,1
+Cognos,1,2
+CoreldRAW,1,1
+css,1,1
+Cytoscape,1,25
+D3,2,463
+Data Illustrator,1,1
+Datacubes,1,1
+Datashader,1,1
+Datawrapper,1,6
+deck.gl,1,2
+decksh,1,1
+Domo,1,3
+elm-visualization,1,1
+Ember.js,1,1
+EPIC EHR,1,1
+Excel,2,752
+Facebook Analytics,1,1
+Figma,1,3
+FlexDashboard,1,1
+Flourish,1,11
+framers,1,1
+Gamesparks,1,1
+GeoDa,1,1
+geoviews,1,1
+Gephi,1,78
+ggplot2,2,445
+ggvis,1,1
+Gnuplot,1,1
+goodData,1,1
+Google Charts,1,1
+Google Data Studio,1,11
+Google Earth Engine,1,1
+Google Map,1,1
+Google Sheets,1,8
+Greensock,1,14
+grid,1,1
+Highcharts,1,95
+Holoviews,1,4
+html,1,1
+hvplot,1,1
+Ibm cognos,1,1
+Igor Pro from Wavemetrics,1,1
+Illustrator,2,347
+ImageJ/Fiji,1,1
+In house Software,1,2
+InDesign,1,4
+Infogram,1,5
+Inkscape,1,4
+iPad,1,1
+It is highly variable,1,1
+Javascript,1,37
+Julia,1,1
+Jupyter,1,1
+kepler.gl,1,40
+KeyLines API,1,1
+Keynote,1,2
+Kibana,1,1
+Knowage,1,2
+lattice,1,1
+Leaflet,2,164
+libre office,1,1
+libSVGwrite,1,1
+Looker,1,3
+LucidChart,1,1
+lucidpress,1,1
+Mapbox,2,208
+Mathematica,1,2
+MATLAB,1,6
+Matplotlib,2,153
+Mayavi,1,1
+Metabase,1,2
+Microstrategy,1,18
+MS Office,1,2
+mySQL,1,1
+nglview,1,1
+nivo,1,1
+Nodebox,1,2
+Numbers,1,1
+Observable,1,1
+OmniGraffle,1,2
+OpenLayers,1,1
+other bi tools,1,1
+Other physical materials,1,58
+Pen & Paper,2,413
+Pentaho,1,1
+Periscope Data,1,1
+PHP,1,1
+Piktochart,1,3
+pixi.js,1,1
+Plotly,2,222
+plotnine,1,1
+Power BI,2,239
+PowerPoint,1,18
+Processing,1,65
+Python,2,469
+pyviz,1,1
+QGIS,2,178
+Qlik,1,36
+Qualtrics,1,1
+QuickSight,1,1
+R,2,620
+RAW,1,9
+React,2,140
+React-vis,1,2
+Recharts,1,1
+Rhino/Grasshopper,1,1
+rivets.js,1,1
+Salesforce,1,1
+SAP,1,3
+SAP Lumira,1,1
+SAP WebGL,1,1
+SAS,1,9
+SAS Visual Analytics,1,1
+Seaborn,1,7
+Semiotic,1,16
+Shiny (R),1,0
+ShowMyData.org,1,1
+Sisense,1,1
+Sketch,1,7
+Smalltalk,1,1
+Spotfire,1,8
+SPSS,1,5
+SQL Developer,1,1
+Stata,1,4
+Svelte,1,1
+SVG,1,5
+Tableau,2,610
+tabX,1,1
+Think-cell,1,1
+ThoughtSpot,1,1
+Three.js,1,2
+Tibco Spotfire,1,4
+Tikz,1,1
+Turf.js,1,2
+Ucinet/NetdRAW,1,1
+Unity,1,3
+Unreal Engine,1,1
+uxpin,1,1
+Vanilla Javascript,1,1
+Vector tools,1,1
+Vega,1,57
+Venngage,1,1
+Visio,1,1
+vmd,1,1
+Voyant,1,1
+VTK,1,1
+Vue,1,49
+vx,1,1
+Web Brain,1,1
+Web Components,1,63
+WebGL,2,105
+Whiteboard,1,1
+XD,1,4
+Yellowbrick,1,1
+ZingChart & ZingGrid,1,1

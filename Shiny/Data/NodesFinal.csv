@@ -1,0 +1,181 @@
+name,group,size,Design tools,url
+Adobe Director,5,1,Design tools,https://www.adobe.com/products/director.html
+Affinity Designer,5,2,Design tools,https://affinity.serif.com/en-gb/designer/
+After Effects,5,1,Design tools,https://www.adobe.com/products/aftereffects.html
+Altair,6,3,Javascript-based tools,https://altair-viz.github.io/
+Alteryx,1,5,"Visualisation Suites, Analytics, Compound Tools",https://www.alteryx.com/solutions/analytics-need/bi-visualization/visual-analytics
+AmCharts,6,2,Javascript-based tools,https://www.amcharts.com/
+Angular,6,53,Javascript-based tools,https://angularjs.org/
+Animate CC,5,1,Design tools,https://www.adobe.com/in/products/animate.html
+Apache superset,1,1,"Visualisation Suites, Analytics, Compound Tools",https://superset.incubator.apache.org/
+aplpy,7,1,Tools based on Python/R,https://aplpy.github.io/
+Arcadia Data,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.arcadiadata.com/
+ArcGIS,8,141,Geo-visualisation tools,https://www.esri.com/en-us/arcgis/about-arcgis/overview
+Axure,9,1,Wireframing tools,https://www.axure.com/
+Blender,10,1,3D Modelling and Game Engines,https://www.blender.org/
+BO,1,3,"Visualisation Suites, Analytics, Compound Tools",https://www.sap.com/uk/products/bi-platform.html
+Bokeh,7,4,Tools based on Python/R,https://bokeh.pydata.org/en/latest/index.html
+Britecharts,6,1,Javascript-based tools,https://github.com/eventbrite/britecharts
+Business Objects,1,4,"Visualisation Suites, Analytics, Compound Tools",https://www.sap.com/uk/products/bi-platform.html
+Canva,5,104,Design tools,https://www.canva.com/
+Canvas,6,101,Javascript-based tools,https://canvasjs.com/
+Carto,8,4,Geo-visualisation tools,https://carto.com/developers/carto-js/v3/
+Cesium.js,6,1,Javascript-based tools,https://cesiumjs.org/
+Charticulator,12,1,"Visualisation-first tools, minimal code involved",https://charticulator.com/
+Chartio,1,2,"Visualisation Suites, Analytics, Compound Tools",https://chartio.com/
+chartjs,6,1,Javascript-based tools,https://www.chartjs.org/
+Cognos,1,2,"Visualisation Suites, Analytics, Compound Tools",https://www.ibm.com/analytics/cognos-analytics
+CoreldRAW,5,1,Design tools,https://www.coreldraw.com/en/
+css,11,1,Tools based on HTML/CSS,https://developer.mozilla.org/en-US/docs/Web/CSS
+Cytoscape,6,25,Javascript-based tools,https://cytoscape.org/
+D3,6,463,Javascript-based tools,https://d3js.org/
+Data Illustrator,12,1,"Visualisation-first tools, minimal code involved",http://data-illustrator.com/
+Datacubes,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.datacubes.com/
+Datashader,7,1,Tools based on Python/R,http://datashader.org/
+Datawrapper,12,6,"Visualisation-first tools, minimal code involved",https://www.datawrapper.de/
+deck.gl,6,2,Javascript-based tools,https://deck.gl/
+decksh,6,1,Javascript-based tools,https://deck.gl/
+Domo,1,3,"Visualisation Suites, Analytics, Compound Tools",https://www.domo.com/
+elm-visualization,6,1,Javascript-based tools,https://elm.christmas/2018/6
+Ember.js,6,1,Javascript-based tools,https://emberjs.com/
+EPIC EHR,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.epic.com/
+Excel,2,752,Spreadsheet-like Tools,https://products.office.com/en-in/excel
+Facebook Analytics,1,1,"Visualisation Suites, Analytics, Compound Tools",https://analytics.facebook.com/
+Figma,9,3,Wireframing tools,https://www.figma.com/
+FlexDashboard,7,1,Tools based on Python/R,https://rmarkdown.rstudio.com/flexdashboard/
+Flourish,1,11,"Visualisation Suites, Analytics, Compound Tools",https://flourish.studio/
+framers,9,1,Wireframing tools,https://www.framer.com/
+Gamesparks,10,1,3D Modelling and Game Engines,https://www.gamesparks.com/
+GeoDa,8,1,Geo-visualisation tools,https://geodacenter.github.io/
+geoviews,8,1,Geo-visualisation tools,http://geoviews.org/
+Gephi,3,78,Network Visualisation Tools,https://gephi.org/
+ggplot2,7,445,Tools based on Python/R,https://ggplot2.tidyverse.org/
+ggvis,7,1,Tools based on Python/R,https://ggvis.rstudio.com/
+Gnuplot,7,1,Tools based on Python/R,http://www.gnuplot.info/
+goodData,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.gooddata.com/
+Google Charts,12,1,"Visualisation-first tools, minimal code involved",https://developers.google.com/chart
+Google Data Studio,1,11,"Visualisation Suites, Analytics, Compound Tools",https://datastudio.google.com/
+Google Earth Engine,8,1,Geo-visualisation tools,https://earthengine.google.com/
+Google Map,8,1,Geo-visualisation tools,https://maps.google.com/
+Google Sheets,2,8,Spreadsheet-like Tools,https://www.google.com/sheets/about/
+Greensock,9,14,Wireframing tools,https://greensock.com/
+grid,6,1,Javascript-based tools,http://js-grid.com/
+Highcharts,6,95,Javascript-based tools,https://www.highcharts.com/
+Holoviews,7,4,Tools based on Python/R,http://holoviews.org/
+html,11,1,Tools based on HTML/CSS,https://en.wikipedia.org/wiki/HTML
+hvplot,7,1,Tools based on Python/R,https://hvplot.pyviz.org/
+Ibm cognos,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.ibm.com/analytics/cognos-analytics
+Igor Pro from Wavemetrics,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.wavemetrics.com/
+Illustrator,5,347,Design tools,https://www.adobe.com/in/products/illustrator.html
+ImageJ/Fiji,6,1,Javascript-based tools,https://fiji.sc/
+In house Software,13,2,In-house software,https://en.wikipedia.org/wiki/In-house_software
+InDesign,5,4,Design tools,https://www.adobe.com/in/products/indesign.html
+Infogram,12,5,"Visualisation-first tools, minimal code involved",https://infogram.com/
+Inkscape,5,4,Design tools,https://inkscape.org/
+iPad,5,1,Design tools,https://en.wikipedia.org/wiki/IPad
+It is highly variable,13,1,In-house software,https://www.google.com/
+Javascript,6,37,Javascript-based tools,https://en.wikipedia.org/wiki/JavaScript
+Julia,7,1,Tools based on Python/R,https://pypi.org/project/julia/
+Jupyter,7,1,Tools based on Python/R,https://jupyter.org/
+kepler.gl,6,40,Javascript-based tools,https://kepler.gl/
+KeyLines API,3,1,Network Visualisation Tools,https://cambridge-intelligence.com/keylines/
+Keynote,5,2,Design tools,https://en.wikipedia.org/wiki/Keynote_(presentation_software)
+Kibana,12,1,"Visualisation-first tools, minimal code involved",https://www.elastic.co/products/kibana
+Knowage,1,2,"Visualisation Suites, Analytics, Compound Tools",https://www.knowage-suite.com/site/home/
+lattice,6,1,Javascript-based tools,https://www.npmjs.com/package/lattice-js
+Leaflet,8,164,Geo-visualisation tools,https://leafletjs.com/
+libre office,5,1,Design tools,https://www.libreoffice.org/
+libSVGwrite,6,1,Javascript-based tools,https://github.com/ravhed/libsvg
+Looker,7,3,Tools based on Python/R,https://looker.com/blog/data-science-with-looker-and-python-part-two
+LucidChart,12,1,"Visualisation-first tools, minimal code involved",https://www.lucidchart.com/
+lucidpress,12,1,"Visualisation-first tools, minimal code involved",https://www.lucidpress.com/
+Mapbox,8,208,Geo-visualisation tools,https://www.mapbox.com/
+Mathematica,7,2,Tools based on Python/R,https://www.wolfram.com/mathematica/
+MATLAB,7,6,Tools based on Python/R,https://www.mathworks.com/products/matlab.html
+Matplotlib,7,153,Tools based on Python/R,https://matplotlib.org/
+Mayavi,7,1,Tools based on Python/R,https://docs.enthought.com/mayavi/mayavi/
+Metabase,1,2,"Visualisation Suites, Analytics, Compound Tools",https://metabase.com/
+Microstrategy,1,18,"Visualisation Suites, Analytics, Compound Tools",https://www.microstrategy.com/us
+MS Office,5,2,Design tools,https://en.wikipedia.org/wiki/Microsoft_Office
+mySQL,2,1,Spreadsheet-like Tools,https://www.mysql.com/
+nglview,7,1,Tools based on Python/R,https://github.com/arose/nglview
+nivo,6,1,Javascript-based tools,https://nivo.rocks/
+Nodebox,7,2,Tools based on Python/R,https://www.nodebox.net/
+Numbers,2,1,Spreadsheet-like Tools,https://en.wikipedia.org/wiki/Numbers_(spreadsheet)
+Observable,6,1,Javascript-based tools,https://observablehq.com/
+OmniGraffle,12,2,"Visualisation-first tools, minimal code involved",https://www.omnigroup.com/omnigraffle/
+OpenLayers,8,1,Geo-visualisation tools,https://openlayers.org/
+other bi tools,1,1,"Visualisation Suites, Analytics, Compound Tools",https://en.wikipedia.org/wiki/Business_intelligence
+Other physical materials,4,58,Physical Tools,http://dataphys.org/list/
+Pen & Paper,4,413,Physical Tools,https://www.google.com/
+Pentaho,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.hitachivantara.com/go/pentaho.html
+Periscope Data,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.periscopedata.com/
+PHP,11,1,Tools based on HTML/CSS,https://www.php.net/
+Piktochart,12,3,"Visualisation-first tools, minimal code involved",http://piktochart.com/?
+pixi.js,6,1,Javascript-based tools,https://www.pixijs.com/
+Plotly,7,222,Tools based on Python/R,https://plot.ly/
+plotnine,7,1,Tools based on Python/R,https://pypi.org/project/plotnine/
+Power BI,1,239,"Visualisation Suites, Analytics, Compound Tools",https://powerbi.microsoft.com/en-us/
+PowerPoint,5,18,Design tools,https://en.wikipedia.org/wiki/Microsoft_PowerPoint
+Processing,6,65,Javascript-based tools,https://processing.org/
+Python,7,469,Tools based on Python/R,https://www.python.org/
+pyviz,7,1,Tools based on Python/R,https://pyviz.org/
+QGIS,8,178,Geo-visualisation tools,https://qgis.org/en/site/
+Qlik,1,36,"Visualisation Suites, Analytics, Compound Tools",https://www.qlik.com/us
+Qualtrics,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.qualtrics.com/au/
+QuickSight,1,1,"Visualisation Suites, Analytics, Compound Tools",https://aws.amazon.com/quicksight/
+R,7,620,Tools based on Python/R,https://www.r-project.org/
+RAW,12,9,"Visualisation-first tools, minimal code involved",https://rawgraphs.io/
+React,6,140,Javascript-based tools,https://reactjs.org/
+React-vis,6,2,Javascript-based tools,https://uber.github.io/react-vis/
+Recharts,6,1,Javascript-based tools,http://recharts.org/
+Rhino/Grasshopper,10,1,3D Modelling and Game Engines,https://en.wikipedia.org/wiki/Grasshopper_3D
+rivets.js,6,1,Javascript-based tools,http://rivetsjs.com/
+Salesforce,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.salesforce.com/company/about-us/
+SAP,1,3,"Visualisation Suites, Analytics, Compound Tools",http://sap.com/
+SAP Lumira,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.sap.com/india/products/lumira.html
+SAP WebGL,1,1,"Visualisation Suites, Analytics, Compound Tools",https://en.wikipedia.org/wiki/WebGL
+SAS,1,9,"Visualisation Suites, Analytics, Compound Tools",https://www.sas.com/
+SAS Visual Analytics,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.sas.com/en_in/software/visual-analytics.html
+Seaborn,7,7,Tools based on Python/R,https://seaborn.pydata.org/
+Semiotic,6,16,Javascript-based tools,https://semiotic.nteract.io/
+Shiny (R),7,0,Tools based on Python/R,https://shiny.rstudio.com/
+ShowMyData.org,12,1,"Visualisation-first tools, minimal code involved",https://www.showmydata.org/
+Sisense,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.sisense.com/
+Sketch,9,7,Wireframing tools,https://www.sketch.com/
+Smalltalk,14,1,Miscellaneous,https://en.wikipedia.org/wiki/Smalltalk
+Spotfire,1,8,"Visualisation Suites, Analytics, Compound Tools",https://www.tibco.com/products/tibco-spotfire
+SPSS,7,5,Tools based on Python/R,https://www.ibm.com/in-en/products/spss-statistics
+SQL Developer,2,1,Spreadsheet-like Tools,https://en.wikipedia.org/wiki/Oracle_SQL_Developer
+Stata,7,4,Tools based on Python/R,https://www.stata.com/
+Svelte,6,1,Javascript-based tools,https://svelte.dev/
+SVG,6,5,Javascript-based tools,https://svgjs.com/
+Tableau,1,610,"Visualisation Suites, Analytics, Compound Tools",https://www.tableau.com/
+tabX,1,1,"Visualisation Suites, Analytics, Compound Tools",https://tabx.online/features/market-research-survey-data-visualization-dashboards/
+Think-cell,12,1,"Visualisation-first tools, minimal code involved",https://www.think-cell.com/en/
+ThoughtSpot,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.thoughtspot.com/
+Three.js,6,2,Javascript-based tools,https://threejs.org/
+Tibco Spotfire,1,4,"Visualisation Suites, Analytics, Compound Tools",https://spotfire.tibco.com/overview
+Tikz,7,1,Tools based on Python/R,http://www.texample.net/tikz/
+Turf.js,6,2,Javascript-based tools,https://turfjs.org/
+Ucinet/NetdRAW,3,1,Network Visualisation Tools,https://sites.google.com/site/netdrawsoftware/home
+Unity,10,3,3D Modelling and Game Engines,https://unity.com/
+Unreal Engine,10,1,3D Modelling and Game Engines,https://www.unrealengine.com/
+uxpin,9,1,Wireframing tools,https://www.uxpin.com/
+Vanilla Javascript,6,1,Javascript-based tools,http://vanilla-js.com/
+Vector tools,5,1,Design tools,https://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors
+Vega,7,57,Tools based on Python/R,https://vega.github.io/vega/
+Venngage,12,1,"Visualisation-first tools, minimal code involved",https://venngage.com/
+Visio,12,1,"Visualisation-first tools, minimal code involved",https://products.office.com/en-in/visio/flowchart-software
+vmd,7,1,Tools based on Python/R,https://www.ks.uiuc.edu/Training/Tutorials/vmd/tutorial-html/node5.html
+Voyant,14,1,Miscellaneous,https://voyant-tools.org/
+VTK,7,1,Tools based on Python/R,https://vtk.org/
+Vue,6,49,Javascript-based tools,https://vuejs.org/
+vx,7,1,Tools based on Python/R,https://pypi.org/project/vx/
+Web Brain,1,1,"Visualisation Suites, Analytics, Compound Tools",https://webbrain.com/explore
+Web Components,11,63,Tools based on HTML/CSS,https://developer.mozilla.org/en-US/docs/Web/Web_Components
+WebGL,6,105,Javascript-based tools,https://en.wikipedia.org/wiki/WebGL
+Whiteboard,7,1,Tools based on Python/R,https://pypi.org/project/whiteboard/
+XD,9,4,Wireframing tools,https://www.adobe.com/products/xd/features.html
+Yellowbrick,1,1,"Visualisation Suites, Analytics, Compound Tools",https://www.scikit-yb.org/en/latest/
+ZingChart & ZingGrid,6,1,Javascript-based tools,https://www.zingchart.com/

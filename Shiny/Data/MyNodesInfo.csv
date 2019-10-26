@@ -1,0 +1,181 @@
+name,group,size,info,url
+Adobe Director,5,1,"Adobe director is awesome, and obsolete",there
+Affinity Designer,5,2,Hello,there
+After Effects,5,1,Hello,there
+Altair,6,3,Hello,there
+Alteryx,1,5,Hello,there
+AmCharts,6,2,Hello,there
+Angular,6,53,Hello,there
+Animate CC,5,1,Hello,there
+Apache superset,1,1,Hello,there
+aplpy,7,1,Hello,there
+Arcadia Data,1,1,Hello,there
+ArcGIS,8,141,Hello,there
+Axure,9,1,Hello,there
+Blender,10,1,Hello,there
+BO,1,3,Hello,there
+Bokeh,7,4,Hello,there
+Britecharts,6,1,Hello,there
+Business Objects,1,4,Hello,there
+Canva,5,104,Hello,there
+Canvas,6,101,Hello,there
+Carto,8,4,Hello,there
+Cesium.js,6,1,Hello,there
+Charticulator,12,1,Hello,there
+Chartio,1,2,Hello,there
+chartjs,6,1,Hello,there
+Cognos,1,2,Hello,there
+CoreldRAW,5,1,Hello,there
+css,11,1,Hello,there
+Cytoscape,6,25,Hello,there
+D3,6,463,Hello,there
+Data Illustrator,12,1,Hello,there
+Datacubes,1,1,Hello,there
+Datashader,7,1,Hello,there
+Datawrapper,12,6,Hello,there
+deck.gl,6,2,Hello,there
+decksh,6,1,Hello,there
+Domo,1,3,Hello,there
+elm-visualization,6,1,Hello,there
+Ember.js,6,1,Hello,there
+EPIC EHR,1,1,Hello,there
+Excel,2,752,Whoa,there
+Facebook Analytics,1,1,Hello,there
+Figma,9,3,Hello,there
+FlexDashboard,7,1,Hello,there
+Flourish,1,11,Hello,there
+framers,9,1,Hello,there
+Gamesparks,10,1,Hello,there
+GeoDa,8,1,Hello,there
+geoviews,8,1,Hello,there
+Gephi,3,78,Hello,there
+ggplot2,7,445,Hello,there
+ggvis,7,1,Hello,there
+Gnuplot,7,1,Hello,there
+goodData,1,1,Hello,there
+Google Charts,12,1,Hello,there
+Google Data Studio,1,11,Hello,there
+Google Earth Engine,8,1,Hello,there
+Google Map,8,1,Hello,there
+Google Sheets,2,8,Hello,there
+Greensock,9,14,Hello,there
+grid,6,1,Hello,there
+Highcharts,6,95,Hello,there
+Holoviews,7,4,Hello,there
+html,11,1,Hello,there
+hvplot,7,1,Hello,there
+Ibm cognos,1,1,Hello,there
+Igor Pro from Wavemetrics,1,1,Hello,there
+Illustrator,5,347,Hello,there
+ImageJ/Fiji,6,1,Hello,there
+In house Software,13,2,Hello,there
+InDesign,5,4,Hello,there
+Infogram,12,5,Hello,there
+Inkscape,5,4,Hello,there
+iPad,5,1,Hello,there
+It is highly variable,13,1,Hello,there
+Javascript,6,37,Hello,there
+Julia,7,1,Hello,there
+Jupyter,7,1,Hello,there
+kepler.gl,6,40,Hello,there
+KeyLines API,3,1,Hello,there
+Keynote,5,2,Hello,there
+Kibana,12,1,Hello,there
+Knowage,1,2,Hello,there
+lattice,6,1,Hello,there
+Leaflet,8,164,Hello,there
+libre office,5,1,Hello,there
+libSVGwrite,6,1,Hello,there
+Looker,7,3,Hello,there
+LucidChart,12,1,Hello,there
+lucidpress,12,1,Hello,there
+Mapbox,8,208,Hello,there
+Mathematica,7,2,Hello,there
+MATLAB,7,6,Hello,there
+Matplotlib,7,153,Hello,there
+Mayavi,7,1,Hello,there
+Metabase,1,2,Hello,there
+Microstrategy,1,18,Hello,there
+MS Office,5,2,Hello,there
+mySQL,2,1,Hello,there
+nglview,7,1,Hello,there
+nivo,6,1,Hello,there
+Nodebox,7,2,Hello,there
+Numbers,2,1,Hello,there
+Observable,6,1,Hello,there
+OmniGraffle,12,2,Hello,there
+OpenLayers,8,1,Hello,there
+other bi tools,1,1,Hello,there
+Other physical materials,4,58,Hello,there
+Pen & Paper,4,413,Hello,there
+Pentaho,1,1,Hello,there
+Periscope Data,1,1,Hello,there
+PHP,11,1,Hello,there
+Piktochart,12,3,Hello,there
+pixi.js,6,1,Hello,there
+Plotly,7,222,Hello,there
+plotnine,7,1,Hello,there
+Power BI,1,239,Hello,there
+PowerPoint,5,18,Hello,there
+Processing,6,65,Hello,there
+Python,7,469,Hello,there
+pyviz,7,1,Hello,there
+QGIS,8,178,Hello,there
+Qlik,1,36,Hello,there
+Qualtrics,1,1,Hello,there
+QuickSight,1,1,Hello,there
+R,7,620,Hello,there
+RAW,12,9,Hello,there
+React,6,140,Hello,there
+React-vis,6,2,Hello,there
+Recharts,6,1,Hello,there
+Rhino/Grasshopper,10,1,Hello,there
+rivets.js,6,1,Hello,there
+Salesforce,1,1,Hello,there
+SAP,1,3,Hello,there
+SAP Lumira,1,1,Hello,there
+SAP WebGL,1,1,Hello,there
+SAS,1,9,Hello,there
+SAS Visual Analytics,1,1,Hello,there
+Seaborn,7,7,Hello,there
+Semiotic,6,16,Hello,there
+Shiny (R),7,0,Hello,there
+ShowMyData.org,12,1,Hello,there
+Sisense,1,1,Hello,there
+Sketch,9,7,Hello,there
+Smalltalk,14,1,Hello,there
+Spotfire,1,8,Hello,there
+SPSS,7,5,Hello,there
+SQL Developer,2,1,Hello,there
+Stata,7,4,Hello,there
+Svelte,6,1,Hello,there
+SVG,6,5,Hello,there
+Tableau,1,610,Hello,there
+tabX,1,1,Hello,there
+Think-cell,12,1,Hello,there
+ThoughtSpot,1,1,Hello,there
+Three.js,6,2,Hello,there
+Tibco Spotfire,1,4,Hello,there
+Tikz,7,1,Hello,there
+Turf.js,6,2,Hello,there
+Ucinet/NetdRAW,3,1,Hello,there
+Unity,10,3,Hello,there
+Unreal Engine,10,1,Hello,there
+uxpin,9,1,Hello,there
+Vanilla Javascript,6,1,Hello,there
+Vector tools,5,1,Hello,there
+Vega,7,57,Hello,there
+Venngage,12,1,Hello,there
+Visio,12,1,Hello,there
+vmd,7,1,Hello,there
+Voyant,14,1,Hello,there
+VTK,7,1,Hello,there
+Vue,10,49,Hello,there
+vx,7,1,Hello,there
+Web Brain,1,1,Hello,there
+Web Components,11,63,Hello,there
+WebGL,6,105,Hello,there
+Whiteboard,7,1,Hello,there
+XD,9,4,Hello,there
+Yellowbrick,1,1,Hello,there
+ZingChart & ZingGrid,7,1,Hello,there
